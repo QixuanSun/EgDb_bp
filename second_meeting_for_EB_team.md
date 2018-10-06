@@ -32,14 +32,14 @@ THBT victims of sexual abuse have the right not to disclose their own names.
 确定讨论方向，窄化辩题。（己方有利，但不能过分）
 ***
 Eg:  
-Motion:Israel should change its policies toward Palestinians.  
-Interpretation:For the purposes of this debate we will interpret (narrow) the motion to include only Arab citizens of the      State of Israel.  
+Motion: Israel should change its policies toward Palestinians.  
+Interpretation: For the purposes of this debate we will interpret (narrow) the motion to include only Arab citizens of the      State of Israel.  
        
-Motion:The US government should ban guns.  
-Interpretation:This government will focus on the influences on children's life security and mental health.  
+Motion: The US government should ban guns.  
+Interpretation: This government will focus on the influences on children's life security and mental health.  
        
-Motion:EU should banish the refugees who entered illegally.  
-Interpretation:This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
+Motion: EU should banish the refugees who entered illegally.  
+Interpretation: This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
 ***
 * Defining the motion includes defining anywords or phrases that:  
    -  a.are ambiguous
@@ -47,10 +47,10 @@ Interpretation:This government is the Greece government. We will narrow the moti
 ***
 Eg:
 
-Motion:Israel should change its policies toward Palestinians.   
-Definition:“Palestinians” include citizens of the West Bank and Gaza as well as Arab citizens of the State of Israel.
+Motion: Israel should change its policies toward Palestinians.   
+Definition: “Palestinians” include citizens of the West Bank and Gaza as well as Arab citizens of the State of Israel.
 
-Motion:THW enforce 12 years compulsory education system in China.   
-Definition:12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
+Motion: THW enforce 12 years compulsory education system in China.   
+Definition: 12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 ***
 
