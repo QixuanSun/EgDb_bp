@@ -42,8 +42,8 @@ Motion:EU should banish the refugees who entered illegally.
 Interpretation:This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
 ***
 * Defining the motion includes defining anywords or phrases that:
-         *  a.are ambiguous
-         *  b.might not be understood by the audience
+         -  a.are ambiguous
+         -  b.might not be understood by the audience
 ***
 Eg:
 
