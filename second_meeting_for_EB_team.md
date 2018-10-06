@@ -68,9 +68,13 @@ Motion: The house regret the popularity of douyin.
 ***
 ### Give argumentation.
 
-# 反上 Opening Opposition
+
 
 ## DPM Deputy Prime Minister: Supporting the Case
 ### Providing refutation. (to be considered in a later lesson on refutation).
 ### Add something new to the case developed by the Prime Minister.It may be a new principled argument, a new consequential argument, or more in‐depth support for an argument already presented.  
 论点补充或给出新观点
+
+## Definition Practising
+
+# 反上 Opening Opposition
