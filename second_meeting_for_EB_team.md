@@ -18,16 +18,18 @@
 ## PM Prime Minister: Four steps
 ### Analyze the Motion（value debate, policy debate）
 ***
-         Eg:  
-         The house regret the popularity of douyin.  
-         THW enforce 12 years compulsory education system in China.  
-         THBT the US government should ban guns.  
-         THBT EU should banish the refugees who entered illegally.  
-         THBT victims of sexual abuse have the right not to disclose their own names.  
+Eg:  
+The house regret the popularity of douyin.  
+THW enforce 12 years compulsory education system in China.  
+THBT the US government should ban guns.  
+THBT EU should banish the refugees who entered illegally.  
+THBT victims of sexual abuse have the right not to disclose their own names.  
 ***
-### Define and interpret(describe) the motion 定义和阐释辩题
+### Define and interpret(describe) the motion   
+定义和阐释辩题
 #### The First Government Team has the right to define and interpret the motion.
-#### The First Government Team has the responsibility to define and interpret the motion in a reasonable way, and to interpret the motion includes narrowing the motion for the purposes of the debate. 确定讨论方向，窄化辩题。（己方有利，但不能过分）
+#### The First Government Team has the responsibility to define and interpret the motion in a reasonable way, and to interpret the motion includes narrowing the motion for the purposes of the debate.    
+确定讨论方向，窄化辩题。（己方有利，但不能过分）
 ***
 Eg:  
 Motion:Israel should change its policies toward Palestinians.  
