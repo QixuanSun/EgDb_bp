@@ -119,7 +119,9 @@ Argumentation: The government should gain benefits through negotiation with all 
 ### ②：To carry on independent arguments introduced by the Leader of the opposition.
 ### ③：Better give at least one new argument.
 
-## 挑战定义 Challenge
-
+## 挑战定义 Challenge  
+除非被逼急了，不然还是不要干这件事为好。  
+要是挑战定义，首先要给出正上定义不合理之处（比如：让反方无话可说），然后给出己方的定义。  
+至于最后排名，看下院跟谁。如果跟正上，那就第四凉了；要是跟反上，那正上就第四凉掉。顺便看裁判 
 ## 时间分配
 2-3分钟rebuttal为宜
