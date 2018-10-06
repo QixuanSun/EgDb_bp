@@ -42,8 +42,8 @@ Motion: EU should banish the refugees who entered illegally.
 Interpretation: This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
 ***
 * Defining the motion includes defining anywords or phrases that:  
-   -  a.are ambiguous
-   -  b.might not be understood by the audience
+   -  are ambiguous 模棱两可的词
+   -  might not be understood by the audience 不理解的词
 ***
 Eg:
 
@@ -53,12 +53,24 @@ Definition: “Palestinians” include citizens of the West Bank and Gaza as wel
 Motion: THW enforce 12 years compulsory education system in China.   
 Definition: 12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 ***
-* Present a model of the motion  
+* Present a model of the motion
+辩题框架，模型 
 
 If the motion is about a policy or action, then model should contain at least three things:
-   - a.Who is the actor?
-   - b.What is the proposed action?
-   - c.Are any other details of the proposal needed?   
+   - Who is the actor?  政策实施对象
+   - What is the proposed action?  政策措施
+   - Are any other details of the proposal needed?   其他细则  
 
 If the motion is about assigning value to an Object (person, institution, idea, etc.), then the model simply needs to be a clear statement of the focus and direction for the debate.
+***
+Eg:
+Motion: The house regret the popularity of douyin.   
+确定讨论焦点类似于窄化辩题  
+***
+### Give argumentation.
 
+
+## DPM Deputy Prime Minister: Supporting the Case
+### Providing refutation. (to be considered in a later lesson on refutation).
+### Add something new to the case developed by the Prime Minister.It may be a new principled argument, a new consequential argument, or more in‐depth support for an argument already presented.  
+论点补充或给出新观点
