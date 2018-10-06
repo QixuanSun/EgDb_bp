@@ -114,4 +114,4 @@ Argumentation: The government should gain benefits through negotiation with all 
 ### To carry on independent arguments introduced by the Leader of the opposition.
 ### Better give at least one new argument.
 
-## 挑战定义 Chanllenge
+## 挑战定义 Challenge
