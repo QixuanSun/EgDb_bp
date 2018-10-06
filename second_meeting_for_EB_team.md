@@ -45,8 +45,7 @@ Interpretation: This government is the Greece government. We will narrow the mot
    -  are ambiguous 模棱两可的词
    -  might not be understood by the audience 不理解的词
 ***
-Eg:
-
+Eg:  
 Motion: Israel should change its policies toward Palestinians.   
 Definition: “Palestinians” include citizens of the West Bank and Gaza as well as Arab citizens of the State of Israel.
 
@@ -63,7 +62,7 @@ If the motion is about a policy or action, then model should contain at least th
 
 If the motion is about assigning value to an Object (person, institution, idea, etc.), then the model simply needs to be a clear statement of the focus and direction for the debate.
 ***
-Eg:
+Eg:  
 Motion: The house regret the popularity of douyin.   
 确定讨论焦点类似于窄化辩题  
 ***
