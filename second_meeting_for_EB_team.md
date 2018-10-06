@@ -16,7 +16,7 @@
 
 # 正上 Opening Government
 ## PM Prime Minister: Four steps
-### Analyze the Motion（value debate, policy debate）
+### ①：Analyze the Motion（value debate, policy debate）
 ***
 Eg:  
 The house regret the popularity of douyin.  
