@@ -34,12 +34,15 @@ THBT victims of sexual abuse have the right not to disclose their own names.
 Eg:  
 Motion: Israel should change its policies toward Palestinians.  
 Interpretation: For the purposes of this debate we will interpret (narrow) the motion to include only Arab citizens of the      State of Israel.  
+只讨论以色列境内的巴勒斯坦人
        
 Motion: The US government should ban guns.  
 Interpretation: This government will focus on the influences on children's life security and mental health.  
+只讨论枪支对孩子的身心健康影响
        
 Motion: EU should banish the refugees who entered illegally.  
 Interpretation: This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
+只讨论欧洲难民对希腊国内经济等方面的影响
 ***
 * Defining the motion includes defining anywords or phrases that:  
    -  are ambiguous 模棱两可的词
@@ -68,6 +71,7 @@ If the motion is about assigning value to an Object (person, institution, idea, 
 Eg:  
 Motion: The house regret the popularity of douyin.   
 确定讨论焦点类似于窄化辩题  
+比如讨论对青少年的影响 
 ***
 ### Give argumentation.
 
