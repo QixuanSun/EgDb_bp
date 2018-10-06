@@ -25,7 +25,7 @@ THBT the US government should ban guns.
 THBT EU should banish the refugees who entered illegally.  
 THBT victims of sexual abuse have the right not to disclose their own names.  
 ***
-### Define and interpret(describe) the motion   
+### ②：Define and interpret(describe) the motion   
 定义和阐释辩题
 * The First Government Team has the right to define and interpret the motion.
 * The First Government Team has the responsibility to define and interpret the motion in a reasonable way, and to interpret the motion includes narrowing the motion for the purposes of the debate.    
@@ -58,7 +58,7 @@ Definition: 12 years compulsory include primary,junior and senior high education
 Motion: Inheritance tax 本院认为应该征收遗产税  
 这个辩题就只需要定义本院和解释遗产税，无需做窄化
 ***
-* Present a model of the motion
+### ③：Present a model of the motion
 辩题框架，模型 
 
 If the motion is about a policy or action, then model should contain at least three things:
@@ -73,13 +73,13 @@ Motion: The house regret the popularity of douyin.
 确定讨论焦点类似于窄化辩题  
 比如讨论对青少年的影响 
 ***
-### Give argumentation.
+### ④：Give argumentation.
 
 
 
 ## DPM Deputy Prime Minister: Supporting the Case
-### Providing refutation. (to be considered in a later lesson on refutation).
-### Add something new to the case developed by the Prime Minister.It may be a new principled argument, a new consequential argument, or more in‐depth support for an argument already presented.  
+### ①：Providing refutation. (to be considered in a later lesson on refutation).
+### ②：Add something new to the case developed by the Prime Minister.It may be a new principled argument, a new consequential argument, or more in‐depth support for an argument already presented.  
 论点补充或给出新观点
 
 ## 时间分配  
@@ -90,12 +90,12 @@ Motion: The house regret the popularity of douyin.
 
 # 反上 Opening Opposition 
 ## LO Leader of the Opposition
-### To develop the opposition stance.  建立反方立场（一句话）
+### ①：To develop the opposition stance.  建立反方立场（一句话）
 * 维持现状
 * 相抗政策
-### To directly or indirectly refute part or all of the Government case.(Refutation will be considered in an upcoming lesson).  反驳正方框架
+### ②：To directly or indirectly refute part or all of the Government case.(Refutation will be considered in an upcoming lesson).  反驳正方框架
 
-### To construct independent Opposition arguments.  建立反方论点
+### ③：To construct independent Opposition arguments.  建立反方论点
 * The Government model will not solve the problems. 政府的政策模型不能解决问题
 *** 
 Motion: Nations should provide a minimal level of education to all their citizens. （中等教育）  
@@ -115,9 +115,9 @@ Motion: As American government, THW start the trade war with all the countries.
 Argumentation: The government should gain benefits through negotiation with all other countries.
 ***
 ## DLO Deputy Leader of the Opposition
-### To continue the refutation.
-### To carry on independent arguments introduced by the Leader of the opposition.
-### Better give at least one new argument.
+### ①：To continue the refutation.
+### ②：To carry on independent arguments introduced by the Leader of the opposition.
+### ③：Better give at least one new argument.
 
 ## 挑战定义 Challenge
 
