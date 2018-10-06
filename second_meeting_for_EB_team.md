@@ -53,4 +53,10 @@ Definition: “Palestinians” include citizens of the West Bank and Gaza as wel
 Motion: THW enforce 12 years compulsory education system in China.   
 Definition: 12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 ***
+* Present a model of the motion  
+.If the motion is about a policy or action, then model should contain at least three things:
+   - a.Who is the actor?
+   - b.What is the proposed action?
+   - c.Are any other details of the proposal needed?  
+.If the motion is about assigning value to an Object (person, institution, idea, etc.), then the model simply needs to be a clear statement of the focus and direction for the debate.
 
