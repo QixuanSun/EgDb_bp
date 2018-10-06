@@ -3,4 +3,4 @@
 * Now you are the mayor of a city. Your city plans to build a new museum to attract more visitors, which kind of museum would you like to build? Local history museum. Modern art museum. Children technology museum.
 # 复习
 * 基本赛制
-** 两方，四队
+*** 两方，四队
