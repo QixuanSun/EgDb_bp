@@ -82,3 +82,18 @@ Motion: The house regret the popularity of douyin.
 ## Definition Practising
 
 # 反上 Opening Opposition
+## LO Leader of the Opposition
+### To develop the opposition stance. 建立反方立场（一句话）
+### To directly or indirectly refute part or all of the Government case.(Refutation will be considered in an upcoming lesson).反驳正方框架
+
+### To construct independent Opposition arguments. 建立反方框架
+* The Government model will not solve the problems. 政府的政策模型不能解决问题
+
+* The Proposition model will create more problems than it solves. 该政策弊大于利
+
+* A counter proposal is better. 给出相抗政策，并说明反方的政策更好
+
+## DLO Deputy Leader of the Opposition
+### To continue the refutation.
+### To carry on independent arguments introduced by the Leader of the opposition.
+### Better give at least one new argument.
