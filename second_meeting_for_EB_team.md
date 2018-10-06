@@ -27,8 +27,8 @@ THBT victims of sexual abuse have the right not to disclose their own names.
 ***
 ### Define and interpret(describe) the motion   
 定义和阐释辩题
-#### The First Government Team has the right to define and interpret the motion.
-#### The First Government Team has the responsibility to define and interpret the motion in a reasonable way, and to interpret the motion includes narrowing the motion for the purposes of the debate.    
+* The First Government Team has the right to define and interpret the motion.
+* The First Government Team has the responsibility to define and interpret the motion in a reasonable way, and to interpret the motion includes narrowing the motion for the purposes of the debate.    
 确定讨论方向，窄化辩题。（己方有利，但不能过分）
 ***
 Eg:  
@@ -41,9 +41,9 @@ Interpretation:This government will focus on the influences on children's life s
 Motion:EU should banish the refugees who entered illegally.  
 Interpretation:This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.  
 ***
-#### Defining the motion includes defining anywords or phrases that:
-##### a.are ambiguous
-##### b.might not be understood by the audience
+* Defining the motion includes defining anywords or phrases that:
+         * a.are ambiguous
+         * b.might not be understood by the audience
 ***
 Eg:
 
