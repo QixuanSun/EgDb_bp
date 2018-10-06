@@ -42,9 +42,13 @@
 ##### b.might not be understood by the audience
 ***
 Eg:
+
 Motion:Israel should change its policies toward Palestinians.
+
 Definition:“Palestinians” include citizens of the West Bank and Gaza as well as Arab citizens of the State of Israel.
+
 Motion:THW enforce 12 years compulsory education system in China.
+
 Definition:12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 ***
 
