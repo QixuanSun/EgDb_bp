@@ -52,7 +52,8 @@ Definition: “Palestinians” include citizens of the West Bank and Gaza as wel
 Motion: THW enforce 12 years compulsory education system in China.   
 Definition: 12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 
-Motion: Inheritance tax
+Motion: Inheritance tax 本院认为应该征收遗产税  
+这个辩题就只需要定义本院和解释遗产税，无需做窄化
 ***
 * Present a model of the motion
 辩题框架，模型 
