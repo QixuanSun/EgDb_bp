@@ -51,6 +51,8 @@ Definition: “Palestinians” include citizens of the West Bank and Gaza as wel
 
 Motion: THW enforce 12 years compulsory education system in China.   
 Definition: 12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
+
+Motion: Inheritance tax
 ***
 * Present a model of the motion
 辩题框架，模型 
@@ -81,7 +83,7 @@ Motion: The house regret the popularity of douyin.
 
 ## Definition Practising
 
-# 反上 Opening Opposition
+# 反上 Opening Opposition 
 ## LO Leader of the Opposition
 ### To develop the opposition stance.  建立反方立场（一句话）
 * 维持现状
@@ -99,3 +101,5 @@ Motion: The house regret the popularity of douyin.
 ### To continue the refutation.
 ### To carry on independent arguments introduced by the Leader of the opposition.
 ### Better give at least one new argument.
+
+## 挑战定义 Chanllenge
