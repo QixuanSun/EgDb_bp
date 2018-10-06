@@ -106,7 +106,7 @@ Conclusions: It will decrease the investment on fundemental medical treatment.
 ***
 * A counter proposal is better. 给出相抗政策，并说明反方的政策更好
 ***
-Motion: As American government, THW start the trade war with all the countries.
+Motion: As American government, THW start the trade war with all the countries.  
 Argumentation: The government should gain benefits through negotiation with all other countries.
 ***
 ## DLO Deputy Leader of the Opposition
@@ -115,3 +115,6 @@ Argumentation: The government should gain benefits through negotiation with all 
 ### Better give at least one new argument.
 
 ## 挑战定义 Challenge
+
+## 时间分配
+2-3分钟rebuttal为宜
