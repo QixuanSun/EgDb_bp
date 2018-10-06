@@ -75,6 +75,10 @@ Motion: The house regret the popularity of douyin.
 ### Add something new to the case developed by the Prime Minister.It may be a new principled argument, a new consequential argument, or more in‐depth support for an argument already presented.  
 论点补充或给出新观点
 
+## 时间分配  
+首相尽可能把定义还有模型框架（背景）讲清楚，浪费个3分钟也没关系。剩下时间讲论点，论点不需要太详细，框架即可。
+副首相的rebuttal时间不要太长，2-3分钟为宜，抓关键反驳，其余时间补充论点。
+
 ## Definition Practising
 
 # 反上 Opening Opposition
