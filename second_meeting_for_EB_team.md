@@ -92,11 +92,23 @@ Motion: The house regret the popularity of douyin.
 
 ### To construct independent Opposition arguments.  建立反方论点
 * The Government model will not solve the problems. 政府的政策模型不能解决问题
-
+*** 
+Motion: Nations should provide a minimal level of education to all their citizens. （中等教育）  
+Argumentation: Access to education will solve the proverty of Africa.  
+Claim: Access to education will not solve the problem of poverty Africa.
+***
 * The Proposition model will create more problems than it solves. 该政策弊大于利
-
+***
+Motion: Nations should provide a minimal level of education to all their citizens. （中等教育）  
+Descriptions: The most important principle for any government is to provide safety and health for its citizens.  
+Relations: Investment on education will increase finanial burderns on African countries.  
+Conclusions: It will decrease the investment on fundemental medical treatment. 
+***
 * A counter proposal is better. 给出相抗政策，并说明反方的政策更好
-
+***
+Motion: As American government, THW start the trade war with all the countries.
+Argumentation: The government should gain benefits through negotiation with all other countries.
+***
 ## DLO Deputy Leader of the Opposition
 ### To continue the refutation.
 ### To carry on independent arguments introduced by the Leader of the opposition.
