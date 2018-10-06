@@ -87,7 +87,10 @@ Motion: The house regret the popularity of douyin.
 副首相的rebuttal时间不要太长，2-3分钟为宜，抓关键反驳，其余时间补充论点。
 
 ## Definition Practising
+***
+THBT students should wear uniforms at school.  
 
+***
 # 反上 Opening Opposition 
 ## LO Leader of the Opposition
 ### ①：To develop the opposition stance.  建立反方立场（一句话）
