@@ -36,7 +36,7 @@
        Interpretation:This government will focus on the influences on children's life security and mental health.
        
        Motion:EU should banish the refugees who entered illegally.
-       Interpretation:This government is the Greece government. We will narrow the motion to include only the financial crisis                  caused by plenty of refugees.
+       Interpretation:This government is the Greece government. We will narrow the motion to include only the financial crisis caused by plenty of refugees.
 #### Defining the motion includes defining anywords or phrases that:
 ##### a.are ambiguous
 ##### b.might not be understood by the audience
@@ -45,5 +45,5 @@
          Definition:“Palestinians” include citizens of the West Bank and Gaza as well as Arab citizens of the State of Israel.
          
          Motion:THW enforce 12 years compulsory education system in China.
-         Definition:12 years compulsory include primary,junior and senior high education,and also include vocational school and                 art school education.
+         Definition:12 years compulsory include primary,junior and senior high education,and also include vocational school and art school education.
 
